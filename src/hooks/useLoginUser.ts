@@ -1,5 +1,4 @@
 import { useMutation } from "@tanstack/react-query";
-import { type ApiResponse } from "../types/api-response";
 import axiosInstance from "../api/axiosInstance";
 import { returnData } from "../helper/return-data";
 
